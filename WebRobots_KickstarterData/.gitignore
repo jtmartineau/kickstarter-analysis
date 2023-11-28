@@ -1,0 +1,6 @@
+# ignore csv
+.csv
+# ignore xls
+.xls
+# ignore xlsx
+.xlsx
